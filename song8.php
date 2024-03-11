@@ -38,7 +38,7 @@
 	echo "\nBy: Mayonnaise";
 
 	// Intro
-	echo "\n\n[Intro]";
+	echo "\n\n\n[Intro]";
 	echo "<div class='chords'>G D/F# Em Cadd9 x2</div>";
 
 	// Verse 1
